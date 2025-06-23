@@ -1,10 +1,10 @@
 # Invenet - Sistema de Gestión de Inventario de Dispositivos
 
 ## 📌 Introducción al proyecto
-Este sistema permite registrar, visualizar y gestionar dispositivos tecnológicos dentro de una organización.  
+Este sistema permite registrar, visualizar y gestionar dispositivos tecnológicos dentro del nivel superior de la ESCOM Nº44.  
 Los usuarios pueden reportar anomalías, generar órdenes de reparación y consultar el estado de los equipos.
 
-El backend se encarga de la lógica de negocio, la conexión con la base de datos, la autenticación de usuarios y la exposición de endpoints para consumo por parte del frontend.
+El backend se encarga de la lógica del sistema, la conexión con la base de datos, la autenticación de usuarios y la exposición de endpoints para consumo por parte del frontend.
 
 ---
 
