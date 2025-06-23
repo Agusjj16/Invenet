@@ -12,7 +12,7 @@ El backend se encarga de la lógica de negocio, la conexión con la base de dato
 
 - **Patrón:** MVC (Model - View - Controller)
 - **Lenguaje:** PHP
-- **Framework:** Laravel 11
+- **Framework:** Laravel 12
 - **Base de datos:** MySQL
 - **API REST:** Laravel Sanctum para autenticación
 - **Herramientas de desarrollo:**
